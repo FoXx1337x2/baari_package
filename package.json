@@ -17,6 +17,7 @@
     "mocha": "^6.2.2"
   },
   "dependencies": {
-    "ferancik_package": "github:ferancik-s/ferancik_package#bebb07cda52b516d8592f3794cb59554acee8bb8"
+    "ferancik_package": "github:ferancik-s/ferancik_package#bebb07cda52b516d8592f3794cb59554acee8bb8",
+    "b-box": "^1.0.1"
   }
 }
